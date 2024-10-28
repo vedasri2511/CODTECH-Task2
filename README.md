@@ -7,6 +7,7 @@ Mentor:Neela Santosh Kumar
 
 Overview of the Project:To create a user-friendly to-do list web app with CSS, HTML, and JavaScript.
 
+![Screenshot 2024-10-28 225113](https://github.com/user-attachments/assets/40516d3f-b0ab-4698-9f4e-a4159f767616)
 
 Description: A colorful and interactive to-do list app designed to be visually appealing and fun. The app features a vibrant color palette, playful fonts, and an engaging layout to make task management enjoyable.
 
